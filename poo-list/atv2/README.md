@@ -12,20 +12,4 @@ de  o  software  tornar-se  defasado  e  perder  para  concorrências futuras.
 Por isso, o próximo objetivo do desenvolvimento e atualizar o sistema com uma GUI moderna e que funcione tanto em navegadores comunsquanto em navegadores de 
 dispositivos móveis, como celulares e/ou tablets, por exemplo.
 </p>
-   
-  
-<h2> Para executar </h2>
-  
-- Faça o clone do repositório:
-```
-git clone 
-```
-
-- Instale as dependências do projeto:
-```
-npm install
-```
-
-- Execute a aplicação pelo comando:
-```
-npm start
+ 
