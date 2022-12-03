@@ -1,0 +1,31 @@
+#logoWb{
+    float: right;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: OCR A Std, monospace;
+    pointer-events: all;
+    position: relative;
+    padding: 4px;
+    color: #5f54fd;
+}
+
+#imagem2{
+    float: right;
+    width: auto;
+}
+
+
+.form .tituloHome {
+    font-size: 25px;
+    font-weight: 500;
+    font-family: OCR A Std, monospace;
+    pointer-events: all;
+    position: relative;
+    padding: 4px;
+}
+
+
+
+
+
+

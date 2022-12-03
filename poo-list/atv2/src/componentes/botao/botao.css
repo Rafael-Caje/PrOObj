@@ -1,0 +1,9 @@
+.botao {
+    height: 45px;
+    margin: 45px 0;
+}
+
+
+.botao input::hover {
+    background: #0780b8;
+}

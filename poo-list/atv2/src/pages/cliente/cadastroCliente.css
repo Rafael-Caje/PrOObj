@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+ .container {
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+.container .titulo {
+    font-size: 25px;
+    font-weight: 500;
+    font-family: OCR A Std, monospace;
+    pointer-events: all;
+    position: relative;
+    padding: 4px;
+}
+
+.container .titulo::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 50px;
+    background: -webkit-linear-gradient(-45deg,#51ffe8,#53c0ff,#5f54fd);
+
+}
+
+
+.container form .DetalhesCli {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 5px 0;
+}
+
+#btnCad{
+    height: 45px;
+    margin: 45px 0;
+  
+}
+
+#btnCad button {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: OCR A Std, monospace;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background: #53c0ff;
+}
+ #btnCad button:hover {
+    background: #0780b8;
+}

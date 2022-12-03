@@ -1,0 +1,29 @@
+ .btn {
+    height: 100px;
+    margin: 50px 0;
+
+}
+
+  .btn input {
+    height: 120%;
+    width: 100%;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: OCR A Std, monospace;
+    border-radius: 5px;
+    letter-spacing: 4px;
+    cursor: pointer;
+    background: #53c0ff;
+}
+
+.btn input:hover {
+    background: #0780b8;
+}
+
+ .btn {
+
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+}

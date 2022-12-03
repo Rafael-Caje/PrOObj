@@ -1,0 +1,32 @@
+#Cont {
+    max-width: 10000px;
+    width: 90%;
+    background: #fff;
+    padding: 25px 25px;
+    border-radius: 5px;
+}
+
+table {
+    font-family: OCR A Std, monospace;
+    
+   
+    margin: 0 auto;
+    margin-top: 10px;
+    border: 1px solid #bdbcbc;
+  }
+  
+  .alinhamento {
+    padding: 0;
+    width: 5%;
+    text-align: right;
+  }
+  
+  td,
+  th {
+    border: 1px solid #bdbcbc;
+    text-align: left;
+    padding: 5px;
+  }
+  
+  
+ 

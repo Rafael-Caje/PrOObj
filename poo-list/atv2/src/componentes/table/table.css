@@ -1,0 +1,40 @@
+
+table{
+    width: 100%;
+    border-radius: 20px;
+}
+
+table,th,td{
+    border: 1px snow;
+    border-collapse: collapse;
+    padding: 0px 2px;
+}
+
+.dadoTbale{
+    text-align: center;
+    color: black;
+}
+
+tr:hover{
+    background-color: #c5c1c1;
+}
+#btnex {
+    margin-top: 2%;
+    margin: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 90%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    background: #53c0ff;
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+
+}
+
+#btnex:hover {
+    background: #0780b8;
+}
