@@ -5,7 +5,7 @@
   
 - Faça o clone do repositório:
 ```
-git clone 
+git clone https://github.com/Rafael-Caje/PrOObj.git
 ```
 
 - Instale as dependências do projeto:
