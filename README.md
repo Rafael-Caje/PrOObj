@@ -18,4 +18,4 @@ npm install (Dentro de cada atividade)
 ```
 npm start
 ou
-node ...js
+node <nome-do-arquivo>.js
