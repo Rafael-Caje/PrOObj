@@ -18,4 +18,4 @@ npm install (Dentro de cada atividade)
 ```
 npm start
 ou
-node <nome-do-arquivo>.js
+node <nome-do-arquivo>.js na pasta app (após compilar de .ts para .js)
